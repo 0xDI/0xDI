@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Dimitris</h1>
-<h3 align="center">Developer, Agency & Brand Owner</h3>
+<h3 align="center">Developer, Agency Owner & Brand Designer</h3>
 
 - 🔭 My main Project is [EvolveFrame](https://evolvefra.me)
 
-- 🌱 I’m currently learning **Business Management**
+- 🌱 I’m currently studying **Business Management**
 
 - 🖊️ My creativity Project is [NTV](https://nativeeu.com)
 
