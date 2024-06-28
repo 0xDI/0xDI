@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Dimitris</h1>
-<h3 align="center">A Developer, Agency & Brand Owner.</h3>
+<h3 align="center">Developer, Agency & Brand Owner</h3>
 
 - 🔭 My main Project is [EvolveFrame](https://evolvefra.me)
 
